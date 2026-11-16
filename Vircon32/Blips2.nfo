@@ -1,0 +1,10 @@
+<game>
+  <title>Blips 2</title>
+  <platform>Vircon32</platform>
+  <genre>Puzzle / Maze Action</genre>
+  <developer>Willems Davy (joyrider3774)</developer>
+  <plot>A remake of Bryant Brownell's DOS game Bips. Players navigate grid levels pushing boxes, collecting dollar coins, and detonating crates with dynamite hazards across original, Gold, and Platinum level sets.</plot>
+  <license>MIT</license>
+  <website name="itch.io page">https://joyrider3774.itch.io/blips-vircon32-version</website>
+  <website name="Github repo">https://github.com/joyrider3774/blips_vircon32</website>
+</game>

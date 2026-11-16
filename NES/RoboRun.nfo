@@ -1,0 +1,11 @@
+<game>
+  <title>RoboRun</title>
+  <platform>NES</platform>
+  <year>2021</year>
+  <genre>Platformer</genre>
+  <developer>heaven-hm</developer>
+  <plot>Guide a small robot through platforming stages filled with obstacles and enemies.</plot>
+  <version>1.1</version>
+  <license>GPL-3.0</license>
+  <website>https://github.com/heaven-hm/roborun-nes</website>
+</game>

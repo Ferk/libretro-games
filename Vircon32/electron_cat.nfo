@@ -1,0 +1,9 @@
+<game>
+  <title>Erwin Schrödinger's Electron Cat</title>
+  <platform>Vircon32</platform>
+  <genre>Puzzle / Platformer</genre>
+  <developer>Palta</developer>
+  <plot>A 2D puzzle platformer where you guide an experimental cat with quantum properties. Players activate quantum tunneling to phase through solid barriers and walls, coordinating timed jumps while evading hazards and fire obstacles across testing chambers to earn the Nobel prize.</plot>
+  <license>BSD-3-Clause</license>
+  <website name="itch.io page (& source)">https://paltra.itch.io/schrodingers-electron-cat</website>
+</game>

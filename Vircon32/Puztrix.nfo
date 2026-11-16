@@ -1,0 +1,10 @@
+<game>
+  <title>Puztrix</title>
+  <platform>Vircon32</platform>
+  <genre>Puzzle / Logic</genre>
+  <developer>Willems Davy (joyrider3774)</developer>
+  <plot>A Vircon32 port and remake of the Gravnic minigame from NES Puzznic. Players manipulate directional gravity to slide colored geometric blocks across grid arenas, aiming to make matching blocks collide and clear the board within a limited move counter across 80 levels.</plot>
+  <license>MIT</license>
+  <website name="itch.io page">https://joyrider3774.itch.io/puztrix-vircon32-version</website>
+  <website name="GitHub repo">https://github.com/joyrider3774/puztrix_vircon32</website>
+</game>

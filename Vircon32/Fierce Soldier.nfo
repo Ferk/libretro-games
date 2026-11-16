@@ -1,0 +1,10 @@
+<game>
+  <title>Fierce Soldier</title>
+  <platform>Vircon32</platform>
+  <genre>Run and Gun / Action</genre>
+  <developer>Carra</developer>
+  <plot>A 16-bit arcade-style side-scrolling run-and-gun platformer where an armed commando fights through hostile facilities, battling varied infantry and mechanical enemies across multiple stages to eliminate a final boss.</plot>
+  <license>BSD-3-Clause</license>
+  <website name="itch.io page">https://vircon32.itch.io/fierce-soldier</website>
+  <website name="Github repo">https://github.com/vircon32/ConsoleSoftware</website>
+</game>

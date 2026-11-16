@@ -1,0 +1,10 @@
+<game>
+  <title>Basic Platformer</title>
+  <platform>Vircon32</platform>
+  <genre>Platformer</genre>
+  <developer>Carra</developer>
+  <plot>A complete, polished 2D platformer serving as the flagship demonstration game for Vircon32. Players navigate through 30 levels divided across 3 distinct worlds, jumping between moving platforms, dodging traps, and collecting coins to unlock the level exit.</plot>
+  <license>BSD-3-Clause</license>
+  <website name="itch.io page">https://vircon32.itch.io/basic-platformer</website>
+  <website name="Github repo">https://github.com/vircon32/ConsoleSoftware</website>
+</game>

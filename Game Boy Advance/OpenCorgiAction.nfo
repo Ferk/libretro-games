@@ -1,0 +1,10 @@
+<game>
+  <title>Open Corgi Action</title>
+  <platform>Gameboy Advance</platform>
+  <year>2026</year>
+  <genre>Platformer</genre>
+  <developer>Ferk</developer>
+  <plot>A Troll platformer for GBA, heavily inspired by Syobon Action.</plot>
+  <license>AGPLv3</license>
+  <website>https://github.com/ferk/OpenCorgiAction</website>
+</game>

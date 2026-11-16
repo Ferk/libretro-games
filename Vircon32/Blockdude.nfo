@@ -1,0 +1,10 @@
+<game>
+  <title>Block Dude</title>
+  <platform>Vircon32</platform>
+  <genre>Puzzle / Logic</genre>
+  <developer>Willems Davy (joyrider3774)</developer>
+  <plot>A Vircon32 port of Brandon Sterner's classic TI-83 graphing calculator puzzle game. Players move a character across 2D side-view grid environments, picking up and stacking movable blocks to build stairs and bridges to reach the level exit door.</plot>
+  <license>MIT</license>
+  <website name="itch.io page">https://joyrider3774.itch.io/blockdude-vircon32-version</website>
+  <website name="Github repo">https://github.com/joyrider3774/blockdude_vircon32</website>
+</game>

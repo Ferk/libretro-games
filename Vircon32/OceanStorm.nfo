@@ -1,0 +1,10 @@
+<game>
+  <title>Ocean Storm</title>
+  <platform>Vircon32</platform>
+  <genre>Action / Tactical Shooter</genre>
+  <developer>Jastro</developer>
+  <plot>A tactical military action game blending aerial combat and ground infiltration. Players pilot an attack helicopter across an island archipelago to neutralize perimeter defenses, then land to deploy an operative on foot to breach facilities and destroy fortified targets.</plot>
+  <license>MIT</license>
+  <website name="itch.io page">https://jastro.itch.io/oceanstorm</website>
+  <website name="Github repo">https://github.com/Jastro/OceanStorm</website>
+</game>
